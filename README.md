@@ -7,4 +7,4 @@
 | text_to_speech_offline.py   | Text-to-speech with pyttsx4 library                                           |
 | proofreader.py              | Proofreader with language_tool_python library                                 |
 | photo_compressor.py         | Photo compressor with Python Imaging Library                                  |
-| youtube_downloader.py       | Youtube Downloader with pytube library                                        |
+| youtube_downloader.py       | Youtube downloader with pytube library                                        |
