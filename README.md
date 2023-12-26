@@ -8,3 +8,6 @@
 | proofreader.py              | Proofreader with language_tool_python library                                 |
 | photo_compressor.py         | Photo compressor with Python Imaging Library                                  |
 | youtube_downloader.py       | Youtube downloader with pytube library                                        | 
+
+To run:  
+python3 <file_name>.py
